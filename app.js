@@ -2,6 +2,7 @@ function newfeature()
 {
 	console.log('Writing new code');
 	console.log('Halfway done');
+	console.log('Finally done with the new feature');
 }
 
 
